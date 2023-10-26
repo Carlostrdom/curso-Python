@@ -1,0 +1,9 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8",
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first"
+
+    },
+    "python.formatting.provider": "none"
+}
